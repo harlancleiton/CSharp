@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\03_ConstrutorBase\bin\Debug\03_ConstrutorBase.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\03_ConstrutorBase\bin\Debug\03_ConstrutorBase.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\03_ConstrutorBase\bin\Debug\03_ConstrutorBase.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\03_ConstrutorBase\obj\Debug\03_ConstrutorBase.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\03_ConstrutorBase\obj\Debug\03_ConstrutorBase.pdb

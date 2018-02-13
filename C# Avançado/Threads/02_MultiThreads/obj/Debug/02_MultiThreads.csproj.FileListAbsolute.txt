@@ -1,0 +1,6 @@
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\02_MultiThreads\bin\Debug\02_MultiThreads.exe.config
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\02_MultiThreads\bin\Debug\02_MultiThreads.exe
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\02_MultiThreads\bin\Debug\02_MultiThreads.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\02_MultiThreads\obj\Debug\02_MultiThreads.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\02_MultiThreads\obj\Debug\02_MultiThreads.exe
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\02_MultiThreads\obj\Debug\02_MultiThreads.pdb

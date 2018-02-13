@@ -1,0 +1,12 @@
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe.config
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClasseAbstrata\bin\Debug\ClasseAbstrata.pdb
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClasseAbstrata\obj\Debug\04 - ClasseAbstrata.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClasseAbstrata\obj\Debug\ClasseAbstrata.exe
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClasseAbstrata\obj\Debug\ClasseAbstrata.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClasseAbstrata\bin\Debug\ClasseAbstrata.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClasseAbstrata\obj\Debug\04 - ClasseAbstrata.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClasseAbstrata\obj\Debug\ClasseAbstrata.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClasseAbstrata\obj\Debug\ClasseAbstrata.pdb

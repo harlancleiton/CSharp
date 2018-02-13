@@ -1,0 +1,12 @@
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClassePacial\bin\Debug\ClassePacial.exe.config
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClassePacial\bin\Debug\ClassePacial.exe
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClassePacial\bin\Debug\ClassePacial.pdb
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClassePacial\obj\Debug\02 - ClassePacial.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClassePacial\obj\Debug\ClassePacial.exe
+C:\Users\harlan.silva\Downloads\Tipos de Classes\ClassePacial\obj\Debug\ClassePacial.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClassePacial\bin\Debug\ClassePacial.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClassePacial\bin\Debug\ClassePacial.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClassePacial\bin\Debug\ClassePacial.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClassePacial\obj\Debug\02 - ClassePacial.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClassePacial\obj\Debug\ClassePacial.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\ClassePacial\obj\Debug\ClassePacial.pdb

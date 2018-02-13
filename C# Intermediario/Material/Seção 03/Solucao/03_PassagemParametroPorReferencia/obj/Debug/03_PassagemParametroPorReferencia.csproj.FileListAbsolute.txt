@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\03_PassagemParametroPorReferencia\bin\Debug\03_PassagemParametroPorReferencia.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\03_PassagemParametroPorReferencia\bin\Debug\03_PassagemParametroPorReferencia.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\03_PassagemParametroPorReferencia\bin\Debug\03_PassagemParametroPorReferencia.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\03_PassagemParametroPorReferencia\obj\Debug\03_PassagemParametroPorReferencia.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\03_PassagemParametroPorReferencia\obj\Debug\03_PassagemParametroPorReferencia.pdb

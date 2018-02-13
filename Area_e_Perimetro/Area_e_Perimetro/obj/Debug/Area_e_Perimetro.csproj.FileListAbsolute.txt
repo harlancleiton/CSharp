@@ -1,0 +1,6 @@
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Area_e_Perimetro\Area_e_Perimetro\bin\Debug\Area_e_Perimetro.exe.config
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Area_e_Perimetro\Area_e_Perimetro\bin\Debug\Area_e_Perimetro.exe
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Area_e_Perimetro\Area_e_Perimetro\bin\Debug\Area_e_Perimetro.pdb
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Area_e_Perimetro\Area_e_Perimetro\obj\Debug\Area_e_Perimetro.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Area_e_Perimetro\Area_e_Perimetro\obj\Debug\Area_e_Perimetro.exe
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Area_e_Perimetro\Area_e_Perimetro\obj\Debug\Area_e_Perimetro.pdb

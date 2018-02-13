@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\04_PassagemParametroOut\bin\Debug\04_PassagemParametroOut.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\04_PassagemParametroOut\bin\Debug\04_PassagemParametroOut.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\04_PassagemParametroOut\bin\Debug\04_PassagemParametroOut.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\04_PassagemParametroOut\obj\Debug\04_PassagemParametroOut.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\04_PassagemParametroOut\obj\Debug\04_PassagemParametroOut.pdb

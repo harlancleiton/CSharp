@@ -1,0 +1,12 @@
+C:\Users\Harlan\Dropbox\Estudos\C#\Iniciando\Iniciando\bin\Debug\Iniciando.exe.config
+C:\Users\Harlan\Dropbox\Estudos\C#\Iniciando\Iniciando\bin\Debug\Iniciando.exe
+C:\Users\Harlan\Dropbox\Estudos\C#\Iniciando\Iniciando\bin\Debug\Iniciando.pdb
+C:\Users\Harlan\Dropbox\Estudos\C#\Iniciando\Iniciando\obj\Debug\Iniciando.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\C#\Iniciando\Iniciando\obj\Debug\Iniciando.exe
+C:\Users\Harlan\Dropbox\Estudos\C#\Iniciando\Iniciando\obj\Debug\Iniciando.pdb
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Iniciando\Iniciando\bin\Debug\Iniciando.exe.config
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Iniciando\Iniciando\obj\Debug\Iniciando.exe
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Iniciando\Iniciando\obj\Debug\Iniciando.pdb
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Iniciando\Iniciando\bin\Debug\Iniciando.exe
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Iniciando\Iniciando\bin\Debug\Iniciando.pdb
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Iniciando\Iniciando\obj\Debug\Iniciando.csprojResolveAssemblyReference.cache

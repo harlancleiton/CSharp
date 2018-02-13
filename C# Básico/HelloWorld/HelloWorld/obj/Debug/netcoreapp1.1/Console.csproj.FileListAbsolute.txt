@@ -1,0 +1,9 @@
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\Console.deps.json
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\Console.runtimeconfig.json
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\Console.runtimeconfig.dev.json
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\Console.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\Console.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\Console.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\Console.AssemblyInfo.cs
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\Console.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\Console.pdb

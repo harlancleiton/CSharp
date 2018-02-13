@@ -1,0 +1,12 @@
+C:\Users\harlan.silva\Downloads\Threads-20171005T105624Z-001\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\bin\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.exe.config
+C:\Users\harlan.silva\Downloads\Threads-20171005T105624Z-001\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\bin\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.exe
+C:\Users\harlan.silva\Downloads\Threads-20171005T105624Z-001\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\bin\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.pdb
+C:\Users\harlan.silva\Downloads\Threads-20171005T105624Z-001\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\obj\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Downloads\Threads-20171005T105624Z-001\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\obj\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.exe
+C:\Users\harlan.silva\Downloads\Threads-20171005T105624Z-001\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\obj\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\bin\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.exe.config
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\bin\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.exe
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\bin\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\obj\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\obj\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.exe
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Threads\06_ThreadAutoResetEvent_ManuelResetEvent\obj\Debug\06_ThreadAutoResetEvent_ManuelResetEvent.pdb

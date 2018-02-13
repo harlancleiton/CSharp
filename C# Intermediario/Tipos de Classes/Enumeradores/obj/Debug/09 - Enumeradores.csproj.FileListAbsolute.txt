@@ -1,0 +1,6 @@
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\Enumeradores\bin\Debug\Enumeradores.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\Enumeradores\bin\Debug\Enumeradores.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\Enumeradores\bin\Debug\Enumeradores.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\Enumeradores\obj\Debug\Enumeradores.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\Enumeradores\obj\Debug\Enumeradores.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\Enumeradores\obj\Debug\09 - Enumeradores.csprojResolveAssemblyReference.cache

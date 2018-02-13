@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\02_TratandoException\bin\Debug\02_TratandoException.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\02_TratandoException\bin\Debug\02_TratandoException.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\02_TratandoException\bin\Debug\02_TratandoException.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\02_TratandoException\obj\Debug\02_TratandoException.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\02_TratandoException\obj\Debug\02_TratandoException.pdb

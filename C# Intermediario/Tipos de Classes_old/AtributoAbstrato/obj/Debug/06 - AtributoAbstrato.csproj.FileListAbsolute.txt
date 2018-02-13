@@ -1,0 +1,6 @@
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\AtributoAbstrato\bin\Debug\AtributoAbstrato.exe.config
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\AtributoAbstrato\bin\Debug\AtributoAbstrato.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\AtributoAbstrato\bin\Debug\AtributoAbstrato.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\AtributoAbstrato\obj\Debug\06 - AtributoAbstrato.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\AtributoAbstrato\obj\Debug\AtributoAbstrato.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\AtributoAbstrato\obj\Debug\AtributoAbstrato.pdb

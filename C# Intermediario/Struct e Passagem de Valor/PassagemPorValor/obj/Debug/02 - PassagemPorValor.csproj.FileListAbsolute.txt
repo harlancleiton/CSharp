@@ -1,0 +1,11 @@
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\PassagemPorValor\bin\Debug\PassagemPorValor.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\PassagemPorValor\bin\Debug\PassagemPorValor.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\PassagemPorValor\bin\Debug\PassagemPorValor.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\PassagemPorValor\obj\Debug\02 - PassagemPorValor.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\PassagemPorValor\obj\Debug\PassagemPorValor.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\PassagemPorValor\obj\Debug\PassagemPorValor.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemPorValor\bin\Debug\PassagemPorValor.exe.config
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemPorValor\bin\Debug\PassagemPorValor.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemPorValor\bin\Debug\PassagemPorValor.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemPorValor\obj\Debug\PassagemPorValor.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemPorValor\obj\Debug\PassagemPorValor.pdb

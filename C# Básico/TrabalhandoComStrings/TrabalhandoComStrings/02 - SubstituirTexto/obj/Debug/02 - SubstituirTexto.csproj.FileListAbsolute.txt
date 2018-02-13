@@ -1,0 +1,6 @@
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\02 - SubstituirTexto\bin\Debug\02 - SubstituirTexto.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\02 - SubstituirTexto\bin\Debug\02 - SubstituirTexto.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\02 - SubstituirTexto\bin\Debug\02 - SubstituirTexto.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\02 - SubstituirTexto\obj\Debug\02 - SubstituirTexto.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\02 - SubstituirTexto\obj\Debug\02 - SubstituirTexto.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\02 - SubstituirTexto\obj\Debug\02 - SubstituirTexto.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Dicas\Solucao\03_UsingStatic\bin\Debug\03_UsingStatic.exe.config

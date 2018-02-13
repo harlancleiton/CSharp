@@ -1,0 +1,6 @@
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\01 - LocalizarTexto\bin\Debug\01 - LocalizarTexto.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\01 - LocalizarTexto\bin\Debug\01 - LocalizarTexto.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\01 - LocalizarTexto\bin\Debug\01 - LocalizarTexto.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\01 - LocalizarTexto\obj\Debug\01 - LocalizarTexto.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\01 - LocalizarTexto\obj\Debug\01 - LocalizarTexto.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\01 - LocalizarTexto\obj\Debug\01 - LocalizarTexto.pdb

@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\03_CustomizarException\bin\Debug\03_CustomizarException.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\03_CustomizarException\bin\Debug\03_CustomizarException.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\03_CustomizarException\bin\Debug\03_CustomizarException.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\03_CustomizarException\obj\Debug\03_CustomizarException.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\03_CustomizarException\obj\Debug\03_CustomizarException.pdb

@@ -1,0 +1,6 @@
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Tasks\MultiTask\bin\Debug\MultiTask.exe.config
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Tasks\MultiTask\bin\Debug\MultiTask.exe
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Tasks\MultiTask\bin\Debug\MultiTask.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Tasks\MultiTask\obj\Debug\03_MultiTask.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Tasks\MultiTask\obj\Debug\MultiTask.exe
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\Tasks\MultiTask\obj\Debug\MultiTask.pdb

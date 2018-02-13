@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\02_LerArquivo\bin\Debug\02_LerArquivo.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\02_LerArquivo\bin\Debug\02_LerArquivo.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\02_LerArquivo\bin\Debug\02_LerArquivo.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\02_LerArquivo\obj\Debug\02_LerArquivo.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\02_LerArquivo\obj\Debug\02_LerArquivo.pdb

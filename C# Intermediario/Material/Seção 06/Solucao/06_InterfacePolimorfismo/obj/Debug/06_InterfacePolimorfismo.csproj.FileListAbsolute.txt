@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\06_InterfacePolimorfismo\bin\Debug\06_InterfacePolimorfismo.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\06_InterfacePolimorfismo\bin\Debug\06_InterfacePolimorfismo.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\06_InterfacePolimorfismo\bin\Debug\06_InterfacePolimorfismo.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\06_InterfacePolimorfismo\obj\Debug\06_InterfacePolimorfismo.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\06_InterfacePolimorfismo\obj\Debug\06_InterfacePolimorfismo.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\06_InterfacePolimorfismo\obj\Debug\06_InterfacePolimorfismo.pdb

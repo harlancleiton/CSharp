@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\02_Metodos\bin\Debug\02_Metodos.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\02_Metodos\bin\Debug\02_Metodos.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\02_Metodos\bin\Debug\02_Metodos.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\02_Metodos\obj\Debug\02_Metodos.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\02_Metodos\obj\Debug\02_Metodos.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\02_Metodos\obj\Debug\02_Metodos.pdb

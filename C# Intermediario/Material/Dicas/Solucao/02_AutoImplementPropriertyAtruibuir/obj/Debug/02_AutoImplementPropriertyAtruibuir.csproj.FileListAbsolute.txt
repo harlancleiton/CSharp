@@ -1,0 +1,1 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Dicas\Solucao\02_AutoImplementPropriertyAtruibuir\bin\Debug\02_AutoImplementPropriertyAtruibuir.exe.config

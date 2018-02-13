@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\02_PassagemParametroPorValor\bin\Debug\02_PassagemParametroPorValor.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\02_PassagemParametroPorValor\bin\Debug\02_PassagemParametroPorValor.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\02_PassagemParametroPorValor\bin\Debug\02_PassagemParametroPorValor.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\02_PassagemParametroPorValor\obj\Debug\02_PassagemParametroPorValor.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\02_PassagemParametroPorValor\obj\Debug\02_PassagemParametroPorValor.pdb

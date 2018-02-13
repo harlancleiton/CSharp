@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Dicas\Solucao\04_Formatar\bin\Debug\04_Formatar.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Dicas\Solucao\04_Formatar\bin\Debug\04_Formatar.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Dicas\Solucao\04_Formatar\bin\Debug\04_Formatar.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Dicas\Solucao\04_Formatar\obj\Debug\04_Formatar.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Dicas\Solucao\04_Formatar\obj\Debug\04_Formatar.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Dicas\Solucao\04_Formatar\obj\Debug\04_Formatar.pdb

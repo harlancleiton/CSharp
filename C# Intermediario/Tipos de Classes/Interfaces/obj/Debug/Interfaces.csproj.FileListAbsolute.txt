@@ -1,0 +1,6 @@
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Tipos de Classes\Interfaces\obj\Debug\Interfaces.pdb

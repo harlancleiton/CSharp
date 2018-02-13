@@ -1,0 +1,6 @@
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\04 - MudarCase\bin\Debug\04 - MudarCase.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\04 - MudarCase\bin\Debug\04 - MudarCase.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\04 - MudarCase\bin\Debug\04 - MudarCase.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\04 - MudarCase\obj\Debug\04 - MudarCase.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\04 - MudarCase\obj\Debug\04 - MudarCase.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\04 - MudarCase\obj\Debug\04 - MudarCase.pdb

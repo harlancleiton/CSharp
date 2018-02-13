@@ -1,0 +1,2 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solution\02_ClasseParcial\bin\Debug\02_ClasseParcial.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solution\02_ClasseParcial\obj\Debug\02_ClasseParcial.csprojResolveAssemblyReference.cache

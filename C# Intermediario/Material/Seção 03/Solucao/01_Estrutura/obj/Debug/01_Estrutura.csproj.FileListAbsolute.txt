@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\01_Estrutura\bin\Debug\01_Estrutura.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\01_Estrutura\bin\Debug\01_Estrutura.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\01_Estrutura\bin\Debug\01_Estrutura.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\01_Estrutura\obj\Debug\01_Estrutura.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\01_Estrutura\obj\Debug\01_Estrutura.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solucao\01_Estrutura\obj\Debug\01_Estrutura.pdb

@@ -1,0 +1,8 @@
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarJSON\bin\Debug\Model.dll
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarJSON\bin\Debug\Model.pdb
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarJSON\obj\Debug\SerializarJSON.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarJSON\obj\Debug\SerializarJSON.pdb

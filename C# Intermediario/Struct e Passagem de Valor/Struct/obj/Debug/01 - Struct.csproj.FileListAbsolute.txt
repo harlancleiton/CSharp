@@ -1,0 +1,10 @@
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\Struct\obj\Debug\Struct.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\Struct\obj\Debug\Struct.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\Struct\bin\Debug\Struct.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Struct\Struct\bin\Debug\Struct.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\Struct\bin\Debug\Struct.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\Struct\bin\Debug\Struct.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\Struct\obj\Debug\Struct.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\Struct\obj\Debug\Struct.pdb

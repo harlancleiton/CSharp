@@ -1,0 +1,5 @@
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Fast_Food\Fast_Food\bin\Debug\Fast_Food.exe
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Fast_Food\Fast_Food\bin\Debug\Fast_Food.pdb
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Fast_Food\Fast_Food\obj\x86\Debug\Fast_Food.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Fast_Food\Fast_Food\obj\x86\Debug\Fast_Food.exe
+C:\Users\Harlan\Dropbox\Estudos\S.I\Linguagens\C#\Fast_Food\Fast_Food\obj\x86\Debug\Fast_Food.pdb

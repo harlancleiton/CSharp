@@ -1,0 +1,8 @@
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\DeseralizarJSON\bin\Debug\DeseralizarJSON.exe.config
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\DeseralizarJSON\bin\Debug\DeseralizarJSON.exe
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\DeseralizarJSON\bin\Debug\DeseralizarJSON.pdb
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\DeseralizarJSON\bin\Debug\Model.dll
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\DeseralizarJSON\bin\Debug\Model.pdb
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\DeseralizarJSON\obj\Debug\DeseralizarJSON.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\DeseralizarJSON\obj\Debug\DeseralizarJSON.exe
+C:\Users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\DeseralizarJSON\obj\Debug\DeseralizarJSON.pdb

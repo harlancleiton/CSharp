@@ -1,0 +1,12 @@
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemComOut\bin\Debug\PassagemComOut.exe.config
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemComOut\bin\Debug\PassagemComOut.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemComOut\bin\Debug\PassagemComOut.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemComOut\obj\Debug\04 - PassagemComOut.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemComOut\obj\Debug\PassagemComOut.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemComOut\obj\Debug\PassagemComOut.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComOut\bin\Debug\PassagemComOut.exe.config
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComOut\bin\Debug\PassagemComOut.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComOut\bin\Debug\PassagemComOut.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComOut\obj\Debug\04 - PassagemComOut.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComOut\obj\Debug\PassagemComOut.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComOut\obj\Debug\PassagemComOut.pdb

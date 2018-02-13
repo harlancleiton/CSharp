@@ -1,0 +1,6 @@
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Exceções\TratarExcecoes\bin\Debug\TratarExcecoes.exe.config
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Exceções\TratarExcecoes\bin\Debug\TratarExcecoes.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Exceções\TratarExcecoes\bin\Debug\TratarExcecoes.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Exceções\TratarExcecoes\obj\Debug\TratarExcecoes.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Exceções\TratarExcecoes\obj\Debug\TratarExcecoes.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Exceções\TratarExcecoes\obj\Debug\02 - TratarExcecoes.csprojResolveAssemblyReference.cache

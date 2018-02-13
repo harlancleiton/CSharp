@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\01_Classe\bin\Debug\01_Classe.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\01_Classe\bin\Debug\01_Classe.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\01_Classe\bin\Debug\01_Classe.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\01_Classe\obj\Debug\01_Classe.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\01_Classe\obj\Debug\01_Classe.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 01\Solucao\01_Classe\obj\Debug\01_Classe.pdb

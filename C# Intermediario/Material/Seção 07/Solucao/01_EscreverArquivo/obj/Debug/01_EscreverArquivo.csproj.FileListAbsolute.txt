@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\01_EscreverArquivo\bin\Debug\01_EscreverArquivo.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\01_EscreverArquivo\bin\Debug\01_EscreverArquivo.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\01_EscreverArquivo\bin\Debug\01_EscreverArquivo.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\01_EscreverArquivo\obj\Debug\01_EscreverArquivo.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\01_EscreverArquivo\obj\Debug\01_EscreverArquivo.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 07\Solucao\01_EscreverArquivo\obj\Debug\01_EscreverArquivo.pdb

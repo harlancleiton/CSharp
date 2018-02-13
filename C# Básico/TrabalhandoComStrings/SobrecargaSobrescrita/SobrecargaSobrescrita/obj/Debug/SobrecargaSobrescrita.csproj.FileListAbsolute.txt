@@ -1,0 +1,6 @@
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\SobrecargaSobrescrita\SobrecargaSobrescrita\bin\Debug\SobrecargaSobrescrita.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\SobrecargaSobrescrita\SobrecargaSobrescrita\bin\Debug\SobrecargaSobrescrita.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\SobrecargaSobrescrita\SobrecargaSobrescrita\bin\Debug\SobrecargaSobrescrita.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\SobrecargaSobrescrita\SobrecargaSobrescrita\obj\Debug\SobrecargaSobrescrita.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\SobrecargaSobrescrita\SobrecargaSobrescrita\obj\Debug\SobrecargaSobrescrita.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\SobrecargaSobrescrita\SobrecargaSobrescrita\obj\Debug\SobrecargaSobrescrita.pdb

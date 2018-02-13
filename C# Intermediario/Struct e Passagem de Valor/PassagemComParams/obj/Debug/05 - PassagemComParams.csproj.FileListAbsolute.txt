@@ -1,0 +1,6 @@
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComParams\bin\Debug\PassagemComParams.exe.config
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComParams\bin\Debug\PassagemComParams.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComParams\bin\Debug\PassagemComParams.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComParams\obj\Debug\05 - PassagemComParams.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComParams\obj\Debug\PassagemComParams.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct e Passagem de Valor\PassagemComParams\obj\Debug\PassagemComParams.pdb

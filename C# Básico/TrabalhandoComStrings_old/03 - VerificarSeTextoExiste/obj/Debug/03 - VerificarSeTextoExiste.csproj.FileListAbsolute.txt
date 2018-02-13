@@ -1,0 +1,6 @@
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\03 - VerificarSeTextoExiste\bin\Debug\03 - VerificarSeTextoExiste.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\03 - VerificarSeTextoExiste\bin\Debug\03 - VerificarSeTextoExiste.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\03 - VerificarSeTextoExiste\bin\Debug\03 - VerificarSeTextoExiste.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\03 - VerificarSeTextoExiste\obj\Debug\03 - VerificarSeTextoExiste.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\03 - VerificarSeTextoExiste\obj\Debug\03 - VerificarSeTextoExiste.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\TrabalhandoComStrings\03 - VerificarSeTextoExiste\obj\Debug\03 - VerificarSeTextoExiste.pdb

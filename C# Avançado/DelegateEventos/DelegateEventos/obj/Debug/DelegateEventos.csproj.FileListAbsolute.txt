@@ -1,0 +1,6 @@
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\DelegateEventos\DelegateEventos\bin\Debug\DelegateEventos.exe.config
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\DelegateEventos\DelegateEventos\bin\Debug\DelegateEventos.exe
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\DelegateEventos\DelegateEventos\bin\Debug\DelegateEventos.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\DelegateEventos\DelegateEventos\obj\Debug\DelegateEventos.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\DelegateEventos\DelegateEventos\obj\Debug\DelegateEventos.exe
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\C# Avançado\DelegateEventos\DelegateEventos\obj\Debug\DelegateEventos.pdb

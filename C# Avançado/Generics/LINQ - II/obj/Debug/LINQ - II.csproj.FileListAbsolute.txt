@@ -1,0 +1,6 @@
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ - II\bin\Debug\LINQ - II.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ - II\bin\Debug\LINQ - II.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ - II\bin\Debug\LINQ - II.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ - II\obj\Debug\LINQ - II.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ - II\obj\Debug\LINQ - II.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ - II\obj\Debug\LINQ - II.pdb

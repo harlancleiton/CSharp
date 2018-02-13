@@ -1,0 +1,9 @@
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Básico\HelloWorld\WindowsForms\obj\Debug\WindowsForms.pdb

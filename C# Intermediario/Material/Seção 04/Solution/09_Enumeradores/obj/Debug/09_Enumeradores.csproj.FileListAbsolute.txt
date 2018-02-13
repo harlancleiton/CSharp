@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solution\09_Enumeradores\bin\Debug\09_Enumeradores.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solution\09_Enumeradores\bin\Debug\09_Enumeradores.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solution\09_Enumeradores\bin\Debug\09_Enumeradores.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solution\09_Enumeradores\obj\Debug\09_Enumeradores.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solution\09_Enumeradores\obj\Debug\09_Enumeradores.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 03\Solution\09_Enumeradores\obj\Debug\09_Enumeradores.pdb

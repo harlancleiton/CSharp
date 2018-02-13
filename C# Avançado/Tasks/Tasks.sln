@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_TaskWindowsForms", "Task01WindowsForms\01_TaskWindowsForms.csproj", "{FB7C94F8-A1DE-44E2-B4B6-5EC98ECF70C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_TaskExecuteMethod", "TaskExecuteMethod\02_TaskExecuteMethod.csproj", "{696FAA22-3C27-4008-BDB9-4BD90A45FCEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MultiTask", "MultiTask\03_MultiTask.csproj", "{CF74A5B8-D35D-4869-88B3-8F3B7F9A910C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7C94F8-A1DE-44E2-B4B6-5EC98ECF70C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7C94F8-A1DE-44E2-B4B6-5EC98ECF70C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7C94F8-A1DE-44E2-B4B6-5EC98ECF70C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7C94F8-A1DE-44E2-B4B6-5EC98ECF70C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696FAA22-3C27-4008-BDB9-4BD90A45FCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696FAA22-3C27-4008-BDB9-4BD90A45FCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696FAA22-3C27-4008-BDB9-4BD90A45FCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696FAA22-3C27-4008-BDB9-4BD90A45FCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF74A5B8-D35D-4869-88B3-8F3B7F9A910C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF74A5B8-D35D-4869-88B3-8F3B7F9A910C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF74A5B8-D35D-4869-88B3-8F3B7F9A910C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF74A5B8-D35D-4869-88B3-8F3B7F9A910C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

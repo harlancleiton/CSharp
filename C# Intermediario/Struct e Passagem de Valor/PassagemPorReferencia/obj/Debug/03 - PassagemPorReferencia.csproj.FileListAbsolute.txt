@@ -1,0 +1,5 @@
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemPorReferencia\bin\Debug\PassagemPorReferencia.exe.config
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemPorReferencia\bin\Debug\PassagemPorReferencia.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemPorReferencia\bin\Debug\PassagemPorReferencia.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemPorReferencia\obj\Debug\PassagemPorReferencia.exe
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\C# Intermediario\Struct\PassagemPorReferencia\obj\Debug\PassagemPorReferencia.pdb

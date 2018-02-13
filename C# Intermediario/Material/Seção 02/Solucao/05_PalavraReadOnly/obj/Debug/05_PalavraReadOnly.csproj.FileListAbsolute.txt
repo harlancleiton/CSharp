@@ -1,0 +1,1 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 02\Solucao\05_PalavraReadOnly\bin\Debug\05_PalavraReadOnly.exe.config

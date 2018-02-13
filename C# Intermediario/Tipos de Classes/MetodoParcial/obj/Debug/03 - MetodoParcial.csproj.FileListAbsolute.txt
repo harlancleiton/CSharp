@@ -1,0 +1,12 @@
+C:\Users\harlan.silva\Downloads\Tipos de Classes\MetodoParcial\bin\Debug\MetodoParcial.exe.config
+C:\Users\harlan.silva\Downloads\Tipos de Classes\MetodoParcial\bin\Debug\MetodoParcial.exe
+C:\Users\harlan.silva\Downloads\Tipos de Classes\MetodoParcial\bin\Debug\MetodoParcial.pdb
+C:\Users\harlan.silva\Downloads\Tipos de Classes\MetodoParcial\obj\Debug\03 - MetodoParcial.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Downloads\Tipos de Classes\MetodoParcial\obj\Debug\MetodoParcial.exe
+C:\Users\harlan.silva\Downloads\Tipos de Classes\MetodoParcial\obj\Debug\MetodoParcial.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\MetodoParcial\bin\Debug\MetodoParcial.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\MetodoParcial\bin\Debug\MetodoParcial.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\MetodoParcial\bin\Debug\MetodoParcial.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\MetodoParcial\obj\Debug\03 - MetodoParcial.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\MetodoParcial\obj\Debug\MetodoParcial.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2015\Projects\Tipos de Classes\MetodoParcial\obj\Debug\MetodoParcial.pdb

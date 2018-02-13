@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\01_ErroThrows\bin\Debug\01_ErroThrows.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\01_ErroThrows\bin\Debug\01_ErroThrows.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\01_ErroThrows\bin\Debug\01_ErroThrows.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\01_ErroThrows\obj\Debug\01_ErroThrows.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\01_ErroThrows\obj\Debug\01_ErroThrows.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 04\Solucao\01_ErroThrows\obj\Debug\01_ErroThrows.pdb

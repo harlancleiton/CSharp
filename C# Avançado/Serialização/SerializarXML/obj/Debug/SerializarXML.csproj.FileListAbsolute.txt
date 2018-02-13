@@ -1,0 +1,8 @@
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarXML\bin\Debug\SerializarXML.exe.config
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarXML\bin\Debug\SerializarXML.exe
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarXML\bin\Debug\SerializarXML.pdb
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarXML\bin\Debug\Model.dll
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarXML\bin\Debug\Model.pdb
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarXML\obj\Debug\SerializarXML.csprojResolveAssemblyReference.cache
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarXML\obj\Debug\SerializarXML.exe
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\SerializarXML\obj\Debug\SerializarXML.pdb

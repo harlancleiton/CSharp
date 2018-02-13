@@ -1,0 +1,5 @@
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\Model\bin\Debug\Model.dll
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\Model\bin\Debug\Model.pdb
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\Model\obj\Debug\Model.dll
+c:\users\harlan.silva\documents\visual studio 2017\Projects\SerializarXML\Model\obj\Debug\Model.pdb

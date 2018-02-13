@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\02_PalavraBase\bin\Debug\02_PalavraBase.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\02_PalavraBase\bin\Debug\02_PalavraBase.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\02_PalavraBase\bin\Debug\02_PalavraBase.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\02_PalavraBase\obj\Debug\02_PalavraBase.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\02_PalavraBase\obj\Debug\02_PalavraBase.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 06\Solucao\02_PalavraBase\obj\Debug\02_PalavraBase.pdb

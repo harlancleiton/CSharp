@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 02\Solucao\01_Biblioteca\bin\Debug\01_Biblioteca.dll
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 02\Solucao\01_Biblioteca\bin\Debug\01_Biblioteca.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 02\Solucao\01_Biblioteca\obj\Debug\01_Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 02\Solucao\01_Biblioteca\obj\Debug\01_Biblioteca.dll
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Intermediario\Seção 02\Solucao\01_Biblioteca\obj\Debug\01_Biblioteca.pdb

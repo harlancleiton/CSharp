@@ -1,0 +1,5 @@
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ\bin\Debug\LINQ.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ\bin\Debug\LINQ.pdb
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ\obj\Debug\LINQ.exe
+C:\Users\harlan.silva\Documents\Visual Studio 2017\Projects\Generics\LINQ\obj\Debug\LINQ.pdb
